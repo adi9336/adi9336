@@ -5,7 +5,7 @@
 🐍 Python | React ⚛️ | Node.js | Next.js | Prisma
 
 📊 GitHub Stats:
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi9336&show_icons=true&theme=radical)
 
 📌 Pinned Projects:
 - 🌐 [Status Page Clone](https://github.com/9336/status_page)
