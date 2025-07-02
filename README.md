@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey, I'm Aditya!
 
-<!--
-**adi9336/adi9336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Engineering student | AI & Dev Tools Enthusiast  
+🚀 Building LLM-powered tools & productivity apps  
+🐍 Python | React ⚛️ | Node.js | Next.js | Prisma
 
-Here are some ideas to get you started:
+📊 GitHub Stats:
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Pinned Projects:
+- 🌐 [Status Page Clone](https://github.com/9336/status-page)
+
+🌱 Currently learning: AI Engineering, LangChain, and OS Internals  
+📬 Connect with me: [LinkedIn](https://linkedin.com/in/your-profile)
