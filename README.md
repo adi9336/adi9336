@@ -1,50 +1,88 @@
-# 👋 Hi, I’m Aditya Gupta  
-**Engineering student · AI & Dev-Tools Enthusiast**
+<!-- Banner -->
+<h1 align="center">⚡ Aditya Gupta — Building the Future, One Agent at a Time ⚡</h1>
+<p align="center">
+  <b>AI Engineer • Full-Stack Developer • Automation Crafter</b><br>
+  Turning ideas into systems · Turning systems into intelligent agents
+</p>
 
 ---
 
-### 🚀 About Me  
-- Currently building intelligent tools and productivity apps using **Python**, **React**, **LangChain**, **N8N** and related technologies.  
-- Passionate about agentic AI workflows, full-stack productivity automation, and bridging Dev + ML.  
-- Always learning: deepening my grasp of **AI Engineering**, LLM-based systems, and developer tooling.  
-- Open to new opportunities and collaborations — let’s build cool things together!
+## 🚀 About Me  
+I’m Aditya — an engineer who enjoys building things that feel **magical**, run **smoothly**, and solve **real problems**.  
+I love crafting systems where **AI thinks**, **code executes**, and **automation handles the boring stuff**.
+
+- 🧠 Designing AI Agents that understand, respond, and act  
+- 🔧 Building full-stack apps that scale in real life  
+- 🔗 Connecting systems, APIs, workflows, and data  
+- 🌱 Always learning, always experimenting, always pushing
 
 ---
 
-### 🛠 What I Work On  
-- **LLM-powered Assistants**: e.g., long-term-memory agents, real-time web search integration, context-aware responses  
-- **Full-Stack Applications**: Combining React frontends, FastAPI backends, PostgreSQL / cloud DB, and external APIs  
-- **Automation / Integration**: Using N8N-style workflow tools + custom code to connect systems, data, and AI
+## 🛠 Tech Playground  
+I speak fluent:
+
+**Backend:** FastAPI · Python · Node.js  
+**Frontend:** React · TypeScript · Tailwind  
+**AI / LLMs:** LangChain · LangGraph · OpenAI API · Retrieval · RAG  
+**Databases:** PostgreSQL · Neon · Supabase  
+**Automation:** N8N-style workflows · REST · Webhooks  
+**DevOps / Tools:** Docker · GitHub Actions · Cloud Deployments  
+
+> If it runs on the web or powers an AI — I probably love working with it.
 
 ---
 
-### 🔍 Featured Projects  
-- [Personalise_Agent](https://github.com/adi9336/Personalise_Agent) – An AI assistant built with LangGraph + FastAPI, modular and designed for long-term memory & contextual responses  
-- [Documentation-Helper](https://github.com/adi9336/Documentation-Helper) – Python tool to streamline documentation generation & maintenance  
-- [status_Page](https://github.com/adi9336/status_Page) – A full-stack status-page application (React + TypeScript)  
-- [n8n](https://github.com/adi9336/n8n) – Fork of the N8N workflow automation platform, extended with native AI capabilities  
-- [POSEIDON](https://github.com/adi9336/POSEIDON) – Python-based project advancing automation/AI integration  
+## 🌟 Signature Projects  
+Here’s what defines my craft:
 
-(*See my GitHub “Pinned” section for full list & descriptions.*)
+### 🔹 **Personalise_Agent**  
+A modular AI assistant with memory, tools, retrieval, and reasoning — powered by **LangGraph + FastAPI**.  
+**→ A personal agent that actually remembers you.**
 
----
+### 🔹 **VaidyaVerse**  
+AI-powered medical appointment + health record assistant  
+ABHA record reading · symptom agent · doctor suggestion · calendar integration  
+**→ Agentic Healthcare in the browser.**
 
-### 🎯 What I’m Learning Next  
-- Advanced **AI Engineering** concepts: distributed model orchestration, MLOps, inference pipelines  
-- Deepening work with **LangChain** (agents, memory, chaining, retrieval)  
-- Building scalable backend systems (FastAPI + Neon/PostgreSQL) for production-grade AI applications  
-- Developing developer-tools / IDE-like experiences using agentic workflows  
+### 🔹 **Status Page App**  
+Full-stack platform showing live service health, uptime & incidents.  
+**→ Inspired by BetterStack / StatusPage — built from scratch.**
 
----
-
-### 📫 Get in Touch  
-- LinkedIn: [linkedin.com/in/aditya-gupta-7a0546203](https://www.linkedin.com/in/aditya-gupta-7a0546203)  
-- Instagram: [@aditya__9336](https://www.instagram.com/aditya__9336)  
-- X (formerly Twitter): [@aditya__9336](https://x.com/aditya__9336)  
-
-Let’s connect, collaborate, and build the next generation of tools together!
+### 🔹 **Documentation Helper**  
+Your personal doc-writer. Turns code → documentation. Simple, clean, fast.
 
 ---
 
-> _“Building. Sharing. Learning.”_
+## ✨ My Coding Aesthetic  
+> _“Code should feel like poetry, run like electricity, and work like a trusted teammate.”_
 
+I build:  
+✔ Clean architectures  
+✔ Agentic workflows  
+✔ Modular systems  
+✔ Automation-heavy apps  
+✔ AI tools that feel personal  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adi9336&theme=tokyonight" alt="GitHub streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adi9336&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi9336&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📫 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-gupta-7a0546203/">LinkedIn</a> •
+  <a href="https://github.com/adi9336">GitHub</a> •
+  <a href="https://x.com/aditya__9336">Twitter</a> •
+  <a href="https://www.instagram.com/aditya__9336">Instagram</a>
+</p>
+
+---
+
+<h3 align="center">✨ If you’re building something ambitious — I’d love to collaborate. Let’s make the future agentic. ✨</h3>
