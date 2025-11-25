@@ -2,7 +2,7 @@
 
 💻 Engineering student | AI & Dev Tools Enthusiast  
 🚀 Building LLM-powered tools & productivity apps  
-🐍 Python | React ⚛️ | Node.js | N8N | Langraph
+🐍 Python | React ⚛️| N8N | Langraph
 
 📊 GitHub Stats:
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi9336&show_icons=true&theme=radical)
