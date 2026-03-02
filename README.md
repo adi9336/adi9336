@@ -1,67 +1,110 @@
-<!-- Banner -->
-<h1 align="center">⚡ Aditya Gupta — Building the Future, One Agent at a Time ⚡</h1>
+<h1 align="center">⚡ Aditya Gupta — Architecting Agentic Systems ⚡</h1>
 <p align="center">
-  <b>AI Engineer • Full-Stack Developer • Automation Crafter</b><br>
-  Turning ideas into systems · Turning systems into intelligent agents
+  <b>AI Engineer • Full-Stack Builder • Workflow Automator</b><br>
+  Designing intelligence that <i>reasons</i>, <i>acts</i>, and <i>scales</i>
 </p>
 
 ---
 
-## 🚀 About Me  
-I’m Aditya — an engineer who enjoys building things that feel **magical**, run **smoothly**, and solve **real problems**.  
-I love crafting systems where **AI thinks**, **code executes**, and **automation handles the boring stuff**.
+## 🧠 About Me  
+I build **agentic software systems** where LLMs don’t just generate text — they **plan, use tools, execute workflows, and validate results**.
 
-- 🧠 Designing AI Agents that understand, respond, and act  
-- 🔧 Building full-stack apps that scale in real life  
-- 🔗 Connecting systems, APIs, workflows, and data  
-- 🌱 Always learning, always experimenting, always pushing
+My focus areas:  
+- Multi-step **AI agents with memory & orchestration**  
+- **RAG pipelines** over real-world datasets  
+- **Streaming + async backends** for long-running agent tasks  
+- **Automation-first architectures** with queues and workers  
 
----
-
-## 🛠 Tech Playground  
-I speak fluent:
-
-**Backend:** FastAPI · Python · Node.js  
-**Frontend:** React · TypeScript · Tailwind  
-**AI / LLMs:** LangChain · LangGraph · OpenAI API · Retrieval · RAG  
-**Databases:** PostgreSQL · Neon · Supabase  
-**Automation:** N8N-style workflows · REST · Webhooks  
-**DevOps / Tools:** Docker · GitHub Actions · Cloud Deployments  
-
-> If it runs on the web or powers an AI — I probably love working with it.
+I care about **clean modular design**, **observability**, and **production-ready AI**.
 
 ---
 
-## 🌟 Signature Projects  
-Here’s what defines my craft:
+## 🛠 Core Stack  
 
-### 🔹 **Personalise_Agent**  
-A modular AI assistant with memory, tools, retrieval, and reasoning — powered by **LangGraph + FastAPI**.  
-**→ A personal agent that actually remembers you.**
+**AI Engineering**  
+LangChain · LangGraph · OpenAI API · RAG · Tool Calling · Vector Stores  
 
-### 🔹 **VaidyaVerse**  
-AI-powered medical appointment + health record assistant  
-ABHA record reading · symptom agent · doctor suggestion · calendar integration  
-**→ Agentic Healthcare in the browser.**
+**Backend**  
+FastAPI · Python · PostgreSQL · SQLite · REST · Webhooks  
 
-### 🔹 **Status Page App**  
-Full-stack platform showing live service health, uptime & incidents.  
-**→ Inspired by BetterStack / StatusPage — built from scratch.**
+**Frontend**  
+React · TypeScript · Tailwind · Streamlit  
 
-### 🔹 **Documentation Helper**  
-Your personal doc-writer. Turns code → documentation. Simple, clean, fast.
+**Data & Orchestration**  
+Redis · Celery · Async workers · Event streaming  
+
+**Infra & DevOps**  
+Docker · GitHub Actions · API-first architecture  
 
 ---
 
-## ✨ My Coding Aesthetic  
-> _“Code should feel like poetry, run like electricity, and work like a trusted teammate.”_
+## 🌟 Key Projects  
 
-I build:  
-✔ Clean architectures  
-✔ Agentic workflows  
-✔ Modular systems  
-✔ Automation-heavy apps  
-✔ AI tools that feel personal  
+### 🌊 POSEIDON — Multi-Agent Oceanographic Analysis  
+Multi-agent system for **Argo float oceanographic data** with end-to-end scientific workflows.
+
+**Agent Graph:**  
+`query_understanding → data_retrieval → analysis → validation`
+
+**Capabilities:**  
+- Natural language parsing → location, depth, time range, variables  
+- ERDDAP data ingestion + SQLite analytical layer  
+- Validation engine with:  
+  - confidence scoring  
+  - time-window consistency checks  
+  - outlier-rate detection  
+- Streamlit control panel with:  
+  - live execution progress events  
+  - diagnostics cards  
+  - Plotly visualizations (trends, depth profiles, geo maps, correlations)  
+
+**APIs:**  
+- `/v1/query` → structured multi-agent execution  
+- `/v1/stream/{conversation_id}` → real-time progress streaming  
+
+➡️ **Agent orchestration for scientific data pipelines**
+
+---
+
+### 🧠 LeadFlow — AI B2B Lead Intelligence Engine  
+Production-style **lead generation backend** with enrichment, scoring, and campaign workflows.
+
+**Architecture:**  
+FastAPI · LangChain · OpenAI · PostgreSQL · Redis · Celery · Docker  
+
+**Features:**  
+- Multi-source lead extraction  
+  - LinkedIn  
+  - business directories  
+  - job boards  
+- AI enrichment:  
+  - company intelligence  
+  - pain-point detection  
+  - lead scoring  
+- Campaign orchestration engine  
+- Persistent **SQLite lead cache** (deduplication + query reuse)  
+- Strict **real-data mode** (no mock fallbacks)  
+- Async workers for scalable processing  
+- Interactive FastAPI docs for pipeline testing  
+
+➡️ **AI + data pipelines + distributed task execution**
+
+---
+
+## 🧩 Engineering Principles  
+✔ Design for **tool use**, not just text output  
+✔ Prefer **graphs over chains** for complex reasoning  
+✔ Separate **LLM logic from business logic**  
+✔ Build **API-first, agent-ready backends**  
+✔ Optimize for **real users and real data**
+
+---
+
+## 🧪 Currently Exploring  
+- Long-running agents & background execution models  
+- Memory architectures (vector + relational + episodic)  
+- Evaluation & observability for LLM systems  
+- MLOps for agent deployment  
 
 ---
 
@@ -72,13 +115,16 @@ I build:
   <img src="https://github-readme-stats.vercel.app/api?username=adi9336&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi9336&layout=compact&theme=tokyonight" height="165"/>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
-## 📫 Connect With Me  
+---
+
+## 🤝 Let’s Collaborate  
+I’m open to:  
+- AI agent infrastructure projects  
+- Full-stack AI products  
+- Research → production LLM systems  
+- Hackathons & experimental builds  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-gupta-7a0546203/">LinkedIn</a> •
   <a href="https://github.com/adi9336">GitHub</a> •
@@ -88,4 +134,4 @@ I build:
 
 ---
 
-<h3 align="center">✨ If you’re building something ambitious — I’d love to collaborate. Let’s make the future agentic. ✨</h3>
+<h3 align="center">🧠 Building agents that don’t just answer — they execute.</h3>
