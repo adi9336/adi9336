@@ -132,10 +132,26 @@ FastAPI -> LangChain/OpenAI -> PostgreSQL/SQLite -> Redis/Celery -> Campaign wor
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adi9336&theme=tokyonight" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=adi9336&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi9336&layout=compact&theme=tokyonight" height="165" alt="Top languages" />
+  <img src="https://komarev.com/ghpvc/?username=adi9336&label=Profile%20views&color=38bdf8&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/adi9336?label=Followers&style=flat&color=22c55e" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/adi9336?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat&color=facc15" alt="GitHub stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adi9336&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adi9336&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="Aditya's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adi9336&theme=tokyonight&hide_border=true" height="165" alt="Aditya's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi9336&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adi9336&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 ---
