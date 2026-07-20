@@ -154,6 +154,10 @@ FastAPI -> LangChain/OpenAI -> PostgreSQL/SQLite -> Redis/Celery -> Campaign wor
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adi9336&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
 ---
 
 ## Let’s Collaborate
